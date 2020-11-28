@@ -1,4 +1,4 @@
-/Moved to (https://github.com/mjchamplin/Personal-Landing-Page)/
+_Moved to (https://github.com/mjchamplin/Personal-Landing-Page)_
 
 Based on [LinkFree](https://github.com/MichaelBarney/LinkFree)
 
